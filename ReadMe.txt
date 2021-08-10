@@ -1,0 +1,1 @@
+These analyses are done off of the real estate data sets that I downloaded from https://www.zillow.com/research/data/. The database was built locally in Microsoft SQL Server Manager where further data cleaning and feature engineering was done prior to exporting the tables to *.csv files for further EDA. A permutation of the same dataset was used for RealEstate Oracle.
